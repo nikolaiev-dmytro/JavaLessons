@@ -1,9 +1,9 @@
-import lesson8.Lesson8;
+import lesson9.Lesson9;
 
 public class Main {
     public static void main(String[] args) {
 
-        Lesson8 lesson8=new Lesson8();
-        lesson8.main();
+        Lesson9 lesson9=new Lesson9();
+        lesson9.main();
     }
 }

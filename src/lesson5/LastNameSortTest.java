@@ -1,6 +1,9 @@
+/*
 package lesson5;
 
 import org.junit.*;
+*/
+/**//*
 
 import java.util.ArrayList;
 import java.util.List;
@@ -46,3 +49,4 @@ public class LastNameSortTest extends Assert {
     }
 
 }
+*/
